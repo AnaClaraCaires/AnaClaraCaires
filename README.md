@@ -1,0 +1,3 @@
+- 👋 Olá, me chamo Ana Clara Caires; 
+- 🌱 Atualmente estou no 2° ano do Ensino Médio com Tec.Desenvolvimento de Sistemas na Etec de Lins-SP;
+- 📫 E-mail: anacaires.jardim@gmail.com;
