@@ -1,3 +1,6 @@
-- Me chamo Ana Clara Caires; 
+- Ana Clara Caires;
+- E-mail: anacaires.jardim@gmail.com;
+- Estagiária de Front-end na AD Soluções em Tecnoligia LTDA
 - 2/3 Ensino Médio com Tec.Desenvolvimento de Sistemas na Etec de Lins-SP;
--  E-mail: anacaires.jardim@gmail.com;
+- Foco em Front-end com conhecimentos básicos de HTML, CSS e JavaScript
+- Aprimorando habilidades em React, React Native, Docker, MVVM e TypeScript
