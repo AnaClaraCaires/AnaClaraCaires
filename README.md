@@ -3,4 +3,4 @@
 - Estagiária de Front-end na AD Soluções em Tecnoligia LTDA
 - 2/3 Ensino Médio com Tec.Desenvolvimento de Sistemas na Etec de Lins-SP;
 - Foco em Front-end com conhecimentos básicos de HTML, CSS e JavaScript
-- Aprimorando habilidades em React, React Native, Docker, MVVM e TypeScript
+- Aprimorando habilidades em React, React Native e TypeScript
